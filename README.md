@@ -8,3 +8,6 @@ This game is best suited for junior students who are new to highschool and unpre
  - Level 3: Nicole Poroshenko and Andrew Jamieson
  - Floating Screen: Nicole Poroshenko
  - Art and UI: Yujin Bae
+
+Team Blog:
+https://docs.google.com/document/d/1Qbvw1dhUPu7H15hCPhva_L1KovyXJ6h8cq_SU9Qc6bU/edit#heading=h.q6gy7hhr0aew

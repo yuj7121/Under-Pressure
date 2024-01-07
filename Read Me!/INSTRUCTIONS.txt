@@ -1,0 +1,29 @@
+Welcome to Under Pressure by Water Pump Games!
+
+In this file you will be provided with all the game instructions for each level as well as how to navigate between screens.
+
+Before playing the game ensure to download the version of java included this folder for the game to properly work.
+
+Press “PLAY” to play Under Pressure! Levels will be unlocked as you proceed through the game. To navigate through all screens, you will 
+need to click with the mouse unless otherwise specified.
+
+In Level 1, you will learn about where academic stress comes from, how it can affect you, and how you can minimize it. 
+To switch between screens all you need to do is click the mouse.
+
+In Level 2, you will be bombarded with people who are pressuring you and throwing bad comments at you. You want to push them away
+in order to avoid loosing all of your lives. Bad comments will make your heart break and a good comment will restore your heart. 
+Press the left and right arrow keys to move from side to side, and press either the up or down arrow keys to push away people. 
+To advance from the level instruction screen you may just press any button. You die and must restart if you are hit by 3 negative 
+comments. You win by pushing away all the negative people.
+
+In Level 3, you will live a week of the life of a high-school student. Each day, you will be faced with different 
+scenarios in which you will have to stop the slider where, based on your learning, you are doing the right amount of studying 
+and playing. Be careful, if you choose to study too much your mental health will decrease. However, if you choose to play too 
+much, your grades will drop. For each day you must use your mouse and click anywhere on the screen to start the slider and then 
+click again to stop the slider.
+
+If you complete the third level successfully you will be sent to a win screen where you can input your name to save your score. You must
+replace the text in the box with your name and then press enter.
+
+After you beat the game you may navigate through all the levels again if you choose, or you can exit at anytime by clicking the exit 
+button on the main menu screen.
